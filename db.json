@@ -1,0 +1,674 @@
+{
+  "categories": {
+    "shows": [
+      {
+        "id": 1,
+        "mainTitle": "Воздушные шары из латекса",
+        "img": "https://i.pinimg.com/736x/c3/3e/02/c33e02f1b887421896d48ae175fd856f.jpg",
+        "categoriesType": [
+          {
+            "name": "Круглые без рисунка",
+            "path": ""
+          },
+          {
+            "name": "Круглые с рисунком",
+            "path": ""
+          },
+          {
+            "name": "Для моделирования",
+            "path": ""
+          },
+          {
+            "name": "Сердца",
+            "path": ""
+          },
+          {
+            "name": "Для упаковки",
+            "path": ""
+          },
+          {
+            "name": "Линколуны",
+            "path": ""
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "mainTitle": "Воздушные шары из фольги",
+        "img": "https://avatars.mds.yandex.net/get-mpic/6458782/img_id4070926427032748792.jpeg/orig",
+        "categoriesType": [
+          {
+            "name": "Круглые без рисунка",
+            "path": ""
+          },
+          {
+            "name": "Круглые с рисунком",
+            "path": ""
+          },
+          {
+            "name": "Для моделирования",
+            "path": ""
+          },
+          {
+            "name": "Сердца",
+            "path": ""
+          },
+          {
+            "name": "Для упаковки",
+            "path": ""
+          },
+          {
+            "name": "Линколуны",
+            "path": ""
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "mainTitle": "Товары для праздника",
+        "img": "https://avatars.mds.yandex.net/get-mpic/6458782/img_id4070926427032748792.jpeg/orig",
+        "categoriesType": [
+          {
+            "name": "Круглые без рисунка",
+            "path": ""
+          },
+          {
+            "name": "Круглые с рисунком",
+            "path": ""
+          },
+          {
+            "name": "Для моделирования",
+            "path": ""
+          },
+          {
+            "name": "Сердца",
+            "path": ""
+          },
+          {
+            "name": "Для упаковки",
+            "path": ""
+          },
+          {
+            "name": "Сердца",
+            "path": ""
+          },
+          {
+            "name": "Для упаковки",
+            "path": ""
+          },
+          {
+            "name": "Линколуны",
+            "path": ""
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "mainTitle": "Воздушные шары из латекса",
+        "img": "https://i.pinimg.com/originals/e8/7e/29/e87e295d51cfafd96e27a3ab45406d48.jpg",
+        "categoriesType": [
+          {
+            "name": "Круглые без рисунка",
+            "path": ""
+          },
+          {
+            "name": "Круглые с рисунком",
+            "path": ""
+          },
+          {
+            "name": "Для моделирования",
+            "path": ""
+          },
+          {
+            "name": "Сердца",
+            "path": ""
+          },
+          {
+            "name": "Для упаковки",
+            "path": ""
+          },
+          {
+            "name": "Сердца",
+            "path": ""
+          },
+          {
+            "name": "Линколуны",
+            "path": ""
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "mainTitle": "Воздушные шары из латекса",
+        "img": "https://i.pinimg.com/originals/2d/1f/c8/2d1fc862cf77d6d2e92ec8b6d03428fc.jpg",
+        "categoriesType": [
+          {
+            "name": "Круглые без рисунка",
+            "path": ""
+          },
+          {
+            "name": "Сердца",
+            "path": ""
+          },
+          {
+            "name": "Для упаковки",
+            "path": ""
+          },
+          {
+            "name": "Сердца",
+            "path": ""
+          },
+          {
+            "name": "Круглые с рисунком",
+            "path": ""
+          },
+          {
+            "name": "Для моделирования",
+            "path": ""
+          },
+          {
+            "name": "Сердца",
+            "path": ""
+          },
+          {
+            "name": "Для упаковки",
+            "path": ""
+          },
+          {
+            "name": "Линколуны",
+            "path": ""
+          }
+        ]
+      }
+    ]
+  },
+  "homeCard": [
+    {
+      "id": "1",
+      "name": "Свеча для торта цифра 0 яркая",
+      "color": "white",
+      "brand": "adidas",
+      "tags": "adidas lola",
+      "price": 120,
+      "moneyType": " ₽",
+      "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTKNqnNos1Z80xIXf5IJ_Q6ZR3Njnhbro2aNQw0zLdR9cPqC2vM",
+      "artickul": {
+        "name": "артикул",
+        "type": "249202376"
+      },
+      "category": "older",
+      "discount": 10,
+      "bestseller": false
+    },
+    {
+      "id": "2",
+      "name": "special card",
+      "color": "pink",
+      "brand": "nice",
+      "tags": "nice lola",
+      "price": 100,
+      "moneyType": " ₽",
+      "img": "https://images.uzum.uz/cm1vrnfiraaukt5rbmdg/original.jpg",
+      "artickul": {
+        "name": "артикул",
+        "type": "249202376"
+      },
+      "category": "older",
+      "discount": 5,
+      "bestseller": true
+    },
+    {
+      "id": "3",
+      "name": "Свеча для торта цифра 0 яркая",
+      "color": "white",
+      "brand": "adidas",
+      "tags": "adidas guli qoqi shaptoli",
+      "price": 20,
+      "moneyType": " ₽",
+      "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRwK9_QHwwVfzBbly-KWtGHBCWNoQegOyj-sy2eV4AJBRH9xjnp",
+      "artickul": {
+        "name": "артикул",
+        "type": "249202376"
+      },
+      "category": "older",
+      "discount": null,
+      "bestseller": true
+    },
+    {
+      "id": "4",
+      "name": "Свеча для торта цифра 0 яркая",
+      "color": "pink",
+      "brand": "nice",
+      "tags": "nice guli qovun",
+      "price": 290,
+      "moneyType": " ₽",
+      "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRqZwzE1EmieqG4mlg1HoTULWEPQ-lHJPLxsxmzTDQ64xtCuWJB",
+      "artickul": {
+        "name": "артикул",
+        "type": "249202376"
+      },
+      "category": "young",
+      "discount": null,
+      "bestseller": false
+    },
+    {
+      "id": "5",
+      "name": "Свеча для торта цифра 0 яркая",
+      "color": "purple",
+      "brand": "adidas",
+      "tags": "adidas guli samandar",
+      "price": 145,
+      "moneyType": " ₽",
+      "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTKNqnNos1Z80xIXf5IJ_Q6ZR3Njnhbro2aNQw0zLdR9cPqC2vM",
+      "artickul": {
+        "name": "артикул",
+        "type": "249202376"
+      },
+      "category": "young",
+      "discount": 24,
+      "bestseller": true
+    },
+    {
+      "id": "6",
+      "name": "Свеча для торта цифра 0 яркая",
+      "color": "brown",
+      "brand": "adidas",
+      "tags": "adidas guli sovun",
+      "price": 12,
+      "moneyType": " ₽",
+      "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRwK9_QHwwVfzBbly-KWtGHBCWNoQegOyj-sy2eV4AJBRH9xjnp",
+      "artickul": {
+        "name": "артикул",
+        "type": "249202376"
+      },
+      "category": "young",
+      "discount": 25,
+      "bestseller": false
+    },
+    {
+      "id": "7",
+      "name": "Свеча для торта цифра 0 яркая",
+      "color": "green",
+      "brand": "puma",
+      "tags": "puma guli",
+      "price": 70,
+      "moneyType": " ₽",
+      "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRqZwzE1EmieqG4mlg1HoTULWEPQ-lHJPLxsxmzTDQ64xtCuWJB",
+      "artickul": {
+        "name": "артикул",
+        "type": "249202376"
+      },
+      "category": "young",
+      "discount": null,
+      "bestseller": true
+    },
+    {
+      "id": "8",
+      "name": "Свеча для торта цифра 0 яркая",
+      "color": "gray",
+      "brand": "puma",
+      "tags": "puma guli",
+      "price": 500,
+      "moneyType": " ₽",
+      "img": "https://images.uzum.uz/cm1vrnfiraaukt5rbmdg/original.jpg",
+      "artickul": {
+        "name": "артикул",
+        "type": "249202376"
+      },
+      "category": "young",
+      "discount": 5,
+      "bestseller": true
+    }
+  ],
+  "comforts": [
+    {
+      "id": "1",
+      "title": "Выбираете товары",
+      "body": "Наберите товар в корзину и перейдите к оформлению. Или сделайте заказ по телефону. Вы всегда можете позвонить нам и проконсультироваться."
+    },
+    {
+      "id": "2",
+      "title": "Оплачиваете заказ",
+      "body": "Мы принимаем все способы оплаты. Наличными заказ можно оплатить в нашем магазине: Королёв, Лесная 12. Если нужно выставить счёт на юридическое лицо, позвоните или напишите нам. Сделаем всё оперативно."
+    },
+    {
+      "id": "3",
+      "title": "Получаете",
+      "body": "Доставляем своими курьерами по г. Королёв. Можно оформить доставку Почты России или СДЭК. Забрать лично можно в нашем магазине в Королёве."
+    }
+  ],
+  "toGift": {
+    "informations": [
+      {
+        "title": "Товары для праздника",
+        "desc": " Равным образом, внедрение современных методик позволяет выполнить важные задания по разработке первоочередных требований. Ясность нашей позиции очевидна: высокотехнологичная концепция общественного уклада требует анализа укрепления моральных ценностей!Кстати,  сделанные на базе интернет-аналитики выводы в равной степени предоставлены сами себе. Но постоянное информационно-пропагандистское обеспечение нашей деятельности требует анализа поэтапного и последовательного развития общества. С другой стороны, новая модель организационной деятельности обеспечивает широкому кругу (специалистов) участие в формировании укрепления моральных ценностей.",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMGSOP5Jk5tvNLm-R8ZJuXK8RL09RZzActGTsCOhu7Qyq_MZXN",
+        "id": 84747464646
+      },
+      {
+        "title": "Аэродизайн и клуб",
+        "desc": "Имеется спорная точка зрения, гласящая примерно следующее: активно развивающиеся страны третьего мира, которые представляют собой яркий пример континентально-европейского типа политической культуры, будут превращены в посмешище, хотя само их существование приносит несомненную пользу обществу! Но разбавленное изрядной долей эмпатии, рациональное мышление, в своём классическом представлении, допускает внедрение благоприятных перспектив. Идейные соображения высшего порядка, а также граница обучения кадров прекрасно подходит для реализации благоприятных перспектив. Банальные, но неопровержимые выводы, а также непосредственные участники технического прогресса будут своевременно верифицированы. Сложно сказать, почему ключевые особенности структуры проекта могут быть в равной степени предоставлены сами себе.",
+        "img": "https://ichef.bbci.co.uk/news/640/cpsprodpb/16724/production/_98804919_gettyimages-73382637.jpg",
+        "id": 8475553436
+      },
+      {
+        "title": "Российские и международные фестивали",
+        "desc": "Стремящиеся вытеснить традиционное производство, нанотехнологии являются только методом политического участия и описаны максимально подробно. Равным образом, реализация намеченных плановых заданий является качественно новой ступенью соответствующих условий активизации. Банальные, но неопровержимые выводы, а также тщательные исследования конкурентов призваны к ответу. И нет сомнений, что независимые государства рассмотрены исключительно в разрезе маркетинговых и финансовых предпосылок. Являясь всего лишь частью общей картины, явные признаки победы институционализации являются только методом политического участия и смешаны с не уникальными данными до степени совершенной неузнаваемости, из-за чего возрастает их статус бесполезности. Но консультация с широким активом играет важную роль в формировании системы обучения кадров, соответствующей насущным потребностям.",
+        "img": "https://cdn.i-scmp.com/sites/default/files/styles/768x768/public/images/methode/2017/05/09/51598992-34b2-11e7-8663-b22bc7352b12_1320x770_205416.jpg?itok=qXH8HZ9f",
+        "id": 8479993226
+      }
+    ],
+    "title": "ПОМОГАЕМ ДЕЛАТЬ ПРАЗДНИКИ КРАСИВЫМИ 10 ЛЕТ"
+  },
+  "contactDatas": {
+    "titleName": "НАШ МАГАЗИН В КОРОЛЁВЕ",
+    "desc": "Приходите в гости. У нас несколько тысяч интересных и качественных товаров для отличного праздника!",
+    "stret": "Королёв, Лесная 12",
+    "phoneNum": "+7(903) 014-87-25",
+    "contactEmail": "example@gmail.com"
+  },
+  "blog": [
+    {
+      "id": 5656565,
+      "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTyvM0olc9zFeKzWm1iehibCB_82zDxs0k30dhMD5H5etuTXCRw",
+      "title": "Давайте не будем укрепляться в мысли, что объем доходов населения сократился",
+      "desc": "Давайте не забывать, что сплочённость команды профессионалов процветает, как ни в чем не бывало",
+      "category": "#Продукция",
+      "category2": "#Фестивали"
+    },
+    {
+      "id": 5656590,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7q5HNh0bRNVv6CHg6xQxRrEEVhm_8l2mrHjspxF8NA1AGYUnR",
+      "title": "Прототип нового сервиса - это как детский заливистый смех",
+      "desc": "Нет звука приятнее, чем детский заливистый смех",
+      "category": "#Приключения"
+    },
+    {
+      "id": 56565125,
+      "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS50c1nDMgNVfL_dUNxl8-JG6L_vj0UgFoJ74ByeDLvwrRLOUDf",
+      "title": "Граница обучения кадров даёт нам право принимать самостоятельные решения",
+      "desc": "Светлый лик правового взаимодействия даёт нам право принимать самостоятельные решения",
+      "category": "#Продукция"
+    },
+    {
+      "id": 56566744,
+      "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSoYresxpmithu4IMMkih8oTwAGGlZo51X0CEjzDnR_WnNIm72C",
+      "title": "Может показаться странным, но средства индивидуальной защиты оказались бесполезны",
+      "desc": "Сейчас всё чаще звучит глас грядущего поколения",
+      "category": "#Продукция",
+      "category2": "#Фестивали"
+    },
+    {
+      "id": 56365929,
+      "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQfPOoM3N7zErjWL6cxv91RPILg3d1zy5JI9-_1tHRxUXV8pmvo",
+      "title": "Ha двадцатом съезде партии прозвучало поразительное заявление: сложившаяся структура организации стала доступной ширнармассам!",
+      "desc": "Kypc ценных бумаг так же органично вписывается в наши планы",
+      "category": "#Фестивали"
+    },
+    {
+      "id": 56565555,
+      "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRougfsRYhoaNMm_m5AZG3F0sm2f28MRX6g2oNiC3UyjaK_jl7x",
+      "title": "Близость к государственным границам показала себя во всей красе",
+      "desc": "Не следует забывать, что жизнь прекрасна",
+      "category": "#Фестивали"
+    },
+    {
+      "id": 5652325,
+      "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTPi310r-JP6KPbtOeNAEBO7awgnTF1JclbzFyfswJ0zVihFsbt",
+      "title": "Нашу победу сопровождал шопот бессменных лидеров",
+      "desc": "Франция намерена исследовать, почему герцог графства коронован",
+      "category": "#Продукция"
+    },
+    {
+      "id": 5656777,
+      "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSKkopCANsI2iDtcwqeIDkn2Gvy11nSonSPFdFKKqOYITMi_Oa9",
+      "title": "Новая парадигма реальности: обереги никого не защитили",
+      "desc": "Добрая половина выводов даёт нам право принимать самостоятельные решения",
+      "category": "#Приключения"
+    },
+    {
+      "id": 5656345,
+      "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTaAim83jOOj_UJ8Eb14LpUVOmEMDtdonya-MfRJJtiXXHiU-hi",
+      "title": "Сложно сказать, почему жизнь прекрасна",
+      "desc": "Никто не вправе осуждать песнь светлого будущего",
+      "category": "#Приключения",
+      "category2": "#Фестивали"
+    },
+    {
+      "id": 5657545,
+      "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR0gyiWzAZqUkKjFhku_-pbFYY85wOCF9Yr7fRQZoe2_BfPC2SL",
+      "title": "Новая парадигма реальности: солнечных дней всё меньше",
+      "desc": "Окрестности Тулы оросил печальный плач оппозиции",
+      "category": "#Приключения"
+    },
+    {
+      "id": 564545,
+      "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRzRJDeIteVT_Y8B-6vIqK7ctlxHy6N2PqIbW11JIEOKzGPdMpN",
+      "title": "Неподкупность государственных СМИ расставила все точки над i",
+      "desc": "Прототип нового сервиса - это как звон колоколов",
+      "category": "#Приключения",
+      "category2": "#Фестивали"
+    },
+    {
+      "id": 561115,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTniUfgq-xhTeyGIwmmoxo8u4K7ZeLJVFV4K_McPvrttnJvCvSP",
+      "title": "Семантический разбор внешних противодействий не стал ограничивающим фактором",
+      "desc": "Известный инсайдер, в преддверии важного события, так же органично вписывается в наши планы",
+      "category": "#Продукция",
+      "category2": "#Фестивали"
+    },
+    {
+      "id": 522576755,
+      "img": "https://images.squarespace-cdn.com/content/v1/577a359a2994caf1d48e19be/1624025939092-7UGL1GU4SWMZF5BQ0YQO/Greig-Stella-%27moody-skies-1%27.jpg?format=1000w",
+      "title": "Новый закон накладывает вето на песнь светлого будущего",
+      "desc": "Благородные стремления не спасут: частокол на границе починят",
+      "category": "#Продукция"
+    },
+    {
+      "id": 1126565,
+      "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT-1hxwV9miB2-9CLCwDiLHKIPhl3uWU6U4-8gaQlAka5FnAWmh",
+      "title": "Допустим, чистосердечное признание облегчает душу",
+      "desc": "Постоянный количественный рост даёт нам право принимать самостоятельные решения",
+      "category": "#Фестивали"
+    },
+    {
+      "id": 7754465,
+      "img": "https://zastavok.net/main/textures/165274053686.jpg",
+      "title": "Прототип - не панацея",
+      "desc": "Нашу победу сопровождал грохот грома грядущих изменений",
+      "category": "#Приключения",
+      "category2": "#Фестивали"
+    },
+    {
+      "id": 53330165,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7q5HNh0bRNVv6CHg6xQxRrEEVhm_8l2mrHjspxF8NA1AGYUnR",
+      "title": "Логотип крупнейшей компании по производству мыльных пузырей определил дальнейшее развитие",
+      "desc": "На двадцатом съезде партии прозвучало поразительное заявление: доблесть наших правозащитников оказалась ошибочной",
+      "category": "#Продукция",
+      "category2": "#Фестивали"
+    },
+    {
+      "id": 5600065,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIajbS6A7Fy2eaAyrVoQD_JmKJ6W6QZlL3U8BR45xiRDAOFnqE",
+      "title": "На двадцатом съезде партии прозвучало поразительное заявление: сплочённость команды профессионалов бодрит",
+      "desc": "Господа, младая поросль матереет",
+      "category": "#Приключения",
+      "category2": "#Фестивали"
+    },
+    {
+      "id": 565671710,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0smuCfCcvMOks6_UEvvLtpEuBilmvhl2nBxc5i1AzFUbbGF4b",
+      "title": "Мелочь, а приятно: небо темнеет",
+      "desc": "Допустим, в провинциях ещё есть чем поживиться",
+      "category": "#Продукция",
+      "category2": "#Фестивали"
+    },
+    {
+      "id": 565688870,
+      "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSiw-mtEkV46WgWnPkBp9eWQmSms-hxbiX5x5Qmu8HPTJC_-1qy",
+      "title": "Частотность поисковых запросов разочаровала",
+      "desc": "Мелочь, а приятно: зима близко",
+      "category": "#Приключения",
+      "category2": "#Фестивали"
+    },
+    {
+      "id": 576767665,
+      "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTzhGVrh5Re2O6I9WY-juYRgPgySKKVb8LR4DOrC6TTOMIZ4Jyt",
+      "title": "Давайте не забывать, что современная методология разработки процветает, как ни в чем не бывало",
+      "desc": "Очевидцы сообщают, что слышали грохот грома грядущих изменений",
+      "category": "#Продукция",
+      "category2": "#Фестивали"
+    },
+    {
+      "id": 56565665,
+      "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTyvM0olc9zFeKzWm1iehibCB_82zDxs0k30dhMD5H5etuTXCRw",
+      "title": "Давайте не будем укрепляться в мысли, что объем доходов населения сократился",
+      "desc": "Давайте не забывать, что сплочённость команды профессионалов процветает, как ни в чем не бывало",
+      "category": "Приключения",
+      "category2": "#Фестивали"
+    },
+    {
+      "id": 8484848,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7q5HNh0bRNVv6CHg6xQxRrEEVhm_8l2mrHjspxF8NA1AGYUnR",
+      "title": "Прототип нового сервиса - это как детский заливистый смех",
+      "desc": "Нет звука приятнее, чем детский заливистый смех",
+      "category": "#Фестивали"
+    },
+    {
+      "id": 4484848,
+      "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS50c1nDMgNVfL_dUNxl8-JG6L_vj0UgFoJ74ByeDLvwrRLOUDf",
+      "title": "Граница обучения кадров даёт нам право принимать самостоятельные решения",
+      "desc": "Светлый лик правового взаимодействия даёт нам право принимать самостоятельные решения",
+      "category": "#Приключения"
+    },
+    {
+      "id": 21212144,
+      "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSoYresxpmithu4IMMkih8oTwAGGlZo51X0CEjzDnR_WnNIm72C",
+      "title": "Может показаться странным, но средства индивидуальной защиты оказались бесполезны",
+      "desc": "Сейчас всё чаще звучит глас грядущего поколения",
+      "category": "#Продукция",
+      "category2": "#Фестивали"
+    },
+    {
+      "id": 32323324,
+      "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQfPOoM3N7zErjWL6cxv91RPILg3d1zy5JI9-_1tHRxUXV8pmvo",
+      "title": "Ha двадцатом съезде партии прозвучало поразительное заявление: сложившаяся структура организации стала доступной ширнармассам!",
+      "desc": "Kypc ценных бумаг так же органично вписывается в наши планы",
+      "category": "#Фестивали"
+    },
+    {
+      "id": 656565,
+      "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRougfsRYhoaNMm_m5AZG3F0sm2f28MRX6g2oNiC3UyjaK_jl7x",
+      "title": "Близость к государственным границам показала себя во всей красе",
+      "desc": "Не следует забывать, что жизнь прекрасна",
+      "category": "#Фестивали"
+    },
+    {
+      "id": 99595954,
+      "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTPi310r-JP6KPbtOeNAEBO7awgnTF1JclbzFyfswJ0zVihFsbt",
+      "title": "Нашу победу сопровождал шопот бессменных лидеров",
+      "desc": "Франция намерена исследовать, почему герцог графства коронован",
+      "category": "#Продукция"
+    },
+    {
+      "id": 4993645,
+      "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSKkopCANsI2iDtcwqeIDkn2Gvy11nSonSPFdFKKqOYITMi_Oa9",
+      "title": "Новая парадигма реальности: обереги никого не защитили",
+      "desc": "Добрая половина выводов даёт нам право принимать самостоятельные решения",
+      "category": "#Фестивали"
+    },
+    {
+      "id": 5400003,
+      "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTaAim83jOOj_UJ8Eb14LpUVOmEMDtdonya-MfRJJtiXXHiU-hi",
+      "title": "Сложно сказать, почему жизнь прекрасна",
+      "desc": "Никто не вправе осуждать песнь светлого будущего",
+      "category": "#Приключения",
+      "category2": "#Фестивали"
+    },
+    {
+      "id": 5400023,
+      "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR0gyiWzAZqUkKjFhku_-pbFYY85wOCF9Yr7fRQZoe2_BfPC2SL",
+      "title": "Новая парадигма реальности: солнечных дней всё меньше",
+      "desc": "Окрестности Тулы оросил печальный плач оппозиции",
+      "category": "#Приключения"
+    },
+    {
+      "id": 42343502,
+      "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRzRJDeIteVT_Y8B-6vIqK7ctlxHy6N2PqIbW11JIEOKzGPdMpN",
+      "title": "Неподкупность государственных СМИ расставила все точки над i",
+      "desc": "Прототип нового сервиса - это как звон колоколов",
+      "category": "#Продукция",
+      "category2": "#Фестивали"
+    },
+    {
+      "id": 434330023,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTniUfgq-xhTeyGIwmmoxo8u4K7ZeLJVFV4K_McPvrttnJvCvSP",
+      "title": "Семантический разбор внешних противодействий не стал ограничивающим фактором",
+      "desc": "Известный инсайдер, в преддверии важного события, так же органично вписывается в наши планы",
+      "category": "#Продукция",
+      "category2": "#Фестивали"
+    },
+    {
+      "id": 354350004,
+      "img": "https://images.squarespace-cdn.com/content/v1/577a359a2994caf1d48e19be/1624025939092-7UGL1GU4SWMZF5BQ0YQO/Greig-Stella-%27moody-skies-1%27.jpg?format=1000w",
+      "title": "Новый закон накладывает вето на песнь светлого будущего",
+      "desc": "Благородные стремления не спасут: частокол на границе починят",
+      "category": "#Продукция"
+    },
+    {
+      "id": 5430004,
+      "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT-1hxwV9miB2-9CLCwDiLHKIPhl3uWU6U4-8gaQlAka5FnAWmh",
+      "title": "Допустим, чистосердечное признание облегчает душу",
+      "desc": "Постоянный количественный рост даёт нам право принимать самостоятельные решения",
+      "category": "#Приключения"
+    },
+    {
+      "id": 5435050044,
+      "img": "https://zastavok.net/main/textures/165274053686.jpg",
+      "title": "Прототип - не панацея",
+      "desc": "Нашу победу сопровождал грохот грома грядущих изменений",
+      "category": "#Приключения",
+      "category2": "#Фестивали"
+    },
+    {
+      "id": 535435,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7q5HNh0bRNVv6CHg6xQxRrEEVhm_8l2mrHjspxF8NA1AGYUnR",
+      "title": "Логотип крупнейшей компании по производству мыльных пузырей определил дальнейшее развитие",
+      "desc": "На двадцатом съезде партии прозвучало поразительное заявление: доблесть наших правозащитников оказалась ошибочной",
+      "category": "#Продукция",
+      "category2": "#Фестивали"
+    },
+    {
+      "id": 534534223,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIajbS6A7Fy2eaAyrVoQD_JmKJ6W6QZlL3U8BR45xiRDAOFnqE",
+      "title": "На двадцатом съезде партии прозвучало поразительное заявление: сплочённость команды профессионалов бодрит",
+      "desc": "Господа, младая поросль матереет",
+      "category": "#Приключения",
+      "category2": "#Фестивали"
+    },
+    {
+      "id": 39399234,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0smuCfCcvMOks6_UEvvLtpEuBilmvhl2nBxc5i1AzFUbbGF4b",
+      "title": "Мелочь, а приятно: небо темнеет",
+      "desc": "Допустим, в провинциях ещё есть чем поживиться",
+      "category": "Приключения",
+      "category2": "#Фестивали"
+    },
+    {
+      "id": 43555493,
+      "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSiw-mtEkV46WgWnPkBp9eWQmSms-hxbiX5x5Qmu8HPTJC_-1qy",
+      "title": "Частотность поисковых запросов разочаровала",
+      "desc": "Мелочь, а приятно: зима близко",
+      "category": "#Приключения",
+      "category2": "#Фестивали"
+    },
+    {
+      "id": 110435,
+      "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTzhGVrh5Re2O6I9WY-juYRgPgySKKVb8LR4DOrC6TTOMIZ4Jyt",
+      "title": "Давайте не забывать, что современная методология разработки процветает, как ни в чем не бывало",
+      "desc": "Очевидцы сообщают, что слышали грохот грома грядущих изменений",
+      "category": "#Продукция",
+      "category2": "#Фестивали"
+    }
+  ]
+}

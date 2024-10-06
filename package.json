@@ -1,0 +1,21 @@
+{
+  "name": "bac",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bac": "file:",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "express": "^4.21.0",
+    "json-server": "^1.0.0-alpha.21",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
